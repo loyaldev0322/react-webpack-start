@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  align-items: center;
+  background-color: #eee;
+  margin: 170px 150px 0px 150px;
+  color: #444;
+  border: 2px solid #444;
+  padding: 30px;
+  font-size: 34px;
+  &:hover {
+    background-color: aquamarine;
+  }
+}
